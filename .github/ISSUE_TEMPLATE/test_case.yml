@@ -69,7 +69,7 @@ body:
       description: "Select the Epic this test case belongs to."
       options:
       - "Epic E1: EPIC 1 (#11)"
-      - "Epic E2: Location Input (#13)"
+      - "Epic E2: Location Input (#2)"
       - "Epic E3: Location Flexibility: Cities and Counties (#14)"
       - "Epic E4: Location selection (#15)"
       - "Epic E5: Footer Navigation & Structure (#16)"
